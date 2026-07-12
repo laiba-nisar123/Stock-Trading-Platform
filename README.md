@@ -143,6 +143,18 @@ This is the exact path the app takes from launch to close, step by step.
   next time that username logs in, `DataManager.loadUser()` restores
   everything exactly as it was left — nothing is lost.
 
+## ScreenShort
+
+<img width="980" height="587" alt="WhatsApp Image 2026-07-12 at 4 54 11 PM" src="https://github.com/user-attachments/assets/3249cfe5-94eb-44f2-8426-19c70c11066c" />
+<img width="985" height="572" alt="WhatsApp Image 2026-07-12 at 4 54 12 PM" src="https://github.com/user-attachments/assets/b4dc3921-86e9-482b-932c-a0c13e816771" />
+<img width="1129" height="692" alt="WhatsApp Image 2026-07-12 at 4 54 12 PM (1)" src="https://github.com/user-attachments/assets/a220d914-bb79-4838-ae6d-902fd4c4f70d" />
+<img width="318" height="198" alt="image" src="https://github.com/user-attachments/assets/e25f0ba2-acc0-4b63-8700-8dbe48705f99" />
+<img width="1134" height="677" alt="image" src="https://github.com/user-attachments/assets/169cf56e-6532-420f-80f2-d91d4a3aa2c8" />
+<img width="889" height="514" alt="image" src="https://github.com/user-attachments/assets/138ba716-b7fe-40a8-a8c9-3c2a5b562517" />
+<img width="1130" height="680" alt="image" src="https://github.com/user-attachments/assets/7214b62b-9646-44e3-bb69-99bd60806fc0" />
+<img width="1125" height="651" alt="image" src="https://github.com/user-attachments/assets/c586d199-4016-41f5-bc3a-bdbe0d684fe6" />
+
+
 ---
 
 ## 🗂 Project Structure
@@ -236,6 +248,11 @@ save file is created for it automatically on first login.
 **In NetBeans / IntelliJ:** create a new plain Java Application project,
 copy the contents of `src/` into its source folder, and set
 `LoginScreen` as the main class.
+
+## Flowchart
+
+<img width="1032" height="901" alt="image" src="https://github.com/user-attachments/assets/84aa08cb-1793-45cc-a13c-c80fdbe4c505" />
+
 
 ## 🧭 Roadmap
 
